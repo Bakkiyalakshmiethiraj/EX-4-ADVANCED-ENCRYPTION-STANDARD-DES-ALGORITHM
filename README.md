@@ -55,7 +55,7 @@ int main() {
 ```
 ## OUTPUT:
 
-![Screenshot 2024-10-21 085209](https://github.com/user-attachments/assets/1eb3c2e1-9c58-49a9-88f2-7d67937a9e28)
+![image](https://github.com/user-attachments/assets/899ffb61-c3c4-45d8-a0ba-179e57c1c48a)
 
 ## RESULT: 
 
